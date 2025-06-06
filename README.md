@@ -12,27 +12,36 @@ Features:
 - Frontend: HTML, CSS, JavaScript
 - Backend: Django and Django ORM
 
-How to Run the Project Locally:
+How to Run the Project Locally
 -------------------------------
 
-1. Create a virtual environment:
+Follow these steps to set up and run the Django project on your local machine:
+
+1. Create and activate a virtual environment:
 
    python -m venv venv
-   source venv/bin/activate      # On Windows: venv\Scripts\activate
+   On Windows: venv\Scripts\activate
+   On macOS/Linux: source venv/bin/activate
 
-2. Install dependencies:
+2. Install Django:
+
+   pip install django
+
+3. Install required dependencies:
 
    pip install -r requirements.txt
+   pip install django-heroku
+   pip install djangorestframework
+   pip install Pillow
 
-3. Apply database migrations:
+4. Apply database migrations:
 
-   python manage.py makemigrations
    python manage.py migrate
 
-4. Start the development server:
+5. Start the development server:
 
    python manage.py runserver
 
-5. Open your browser and go to:
+6. Open your browser and go to:
 
    http://127.0.0.1:8000/ to view the app.
