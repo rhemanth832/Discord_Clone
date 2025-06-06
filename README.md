@@ -25,8 +25,8 @@ Follow these steps to set up and run the Django project on your local machine:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/rhemanth832/Discord_Clone.git
+cd Discord_Clone
 ```
 
 ### 2️⃣ Create and activate a virtual environment
