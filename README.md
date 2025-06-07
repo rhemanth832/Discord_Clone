@@ -1,4 +1,6 @@
 # 💬 Discord Clone – Made with Django
+![image](https://github.com/user-attachments/assets/9e61efba-0131-4694-a305-5bed799ed7a2)
+
 
 This project is a simple **Discord-inspired web application** built using the Django framework. It demonstrates core full-stack development concepts like:
 
