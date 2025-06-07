@@ -24,9 +24,10 @@ This project is a simple **Discord-inspired web application** built using the Dj
 Follow these steps to set up and run the Django project on your local machine:
 
 ### 1️⃣ Clone the repository
+Install Git from the Official Website: https://git-scm.com/downloads
 ```bash
 git clone https://github.com/rhemanth832/Discord_Clone.git
-cd Discord_Clone-main
+cd Discord_Clone
 ```
 
 ### 2️⃣ Create and activate a virtual environment
