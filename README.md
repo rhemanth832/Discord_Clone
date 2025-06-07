@@ -26,7 +26,7 @@ Follow these steps to set up and run the Django project on your local machine:
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/rhemanth832/Discord_Clone.git
-cd Discord_Clone
+cd Discord_Clone-main
 ```
 
 ### 2️⃣ Create and activate a virtual environment
@@ -34,6 +34,9 @@ cd Discord_Clone
 python -m venv venv
 # On Windows:
 venv\Scripts\activate
+```
+
+```bash
 # On macOS/Linux:
 source venv/bin/activate
 ```
