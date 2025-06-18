@@ -1,6 +1,5 @@
 # 💬 Echo Room – A Real-Time Communication Platform for Modern Teams
-![image](https://github.com/user-attachments/assets/9e61efba-0131-4694-a305-5bed799ed7a2)
-
+![452561225-9e61efba-0131-4694-a305-5bed799ed7a2](https://github.com/user-attachments/assets/26a5d678-98e8-4ded-910e-4d32d6d4352d)
 
 This project is a simple **web application** built using the Django framework. It demonstrates core full-stack development concepts like:
 
