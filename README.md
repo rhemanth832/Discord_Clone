@@ -1,8 +1,8 @@
-# 💬 Discord Clone – Made with Django
+# 💬 Echo Room – A Real-Time Communication Platform for Modern Teams
 ![image](https://github.com/user-attachments/assets/9e61efba-0131-4694-a305-5bed799ed7a2)
 
 
-This project is a simple **Discord-inspired web application** built using the Django framework. It demonstrates core full-stack development concepts like:
+This project is a simple **web application** built using the Django framework. It demonstrates core full-stack development concepts like:
 
 - User authentication
 - Dynamic content rendering
@@ -29,7 +29,7 @@ Follow these steps to set up and run the Django project on your local machine:
 Install Git from the Official Website: https://git-scm.com/downloads
 ```bash
 git clone https://github.com/rhemanth832/Discord_Clone.git
-cd Discord_Clone
+cd Echo_Room
 ```
 
 ### 2️⃣ Create and activate a virtual environment
@@ -71,7 +71,7 @@ Visit: [http://127.0.0.1:8000/](http://127.0.0.1:8000/) to view the app.
 ## 📁 Project Structure
 
 ```
-discord_clone/
+Echo_Room/
 ├── app/
 │   ├── templates/
 │   ├── static/
